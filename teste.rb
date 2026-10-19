@@ -12,6 +12,7 @@ def calculate(num, num2, client)
 
   puts "Nil value!" if client.value.nil?
 
+
   return unless v.eql?(client.value)
 
   puts "Matching! Value - #{client.value}"
