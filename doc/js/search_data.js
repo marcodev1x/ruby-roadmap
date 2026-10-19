@@ -1,0 +1,1 @@
+var search_data = {"index":[{"name":"Client","full_name":"Client","type":"class","path":"Client.html","snippet":"<p>Client representation with name, optimus flag, value.\n"},{"name":"Object","full_name":"Object","type":"class","path":"Object.html"},{"name":"calculate","full_name":"Object#calculate","type":"instance_method","path":"Object.html#method-i-calculate"}]};

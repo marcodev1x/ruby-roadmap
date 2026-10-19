@@ -1,0 +1,15 @@
+.ri not found, maybe you meant:
+
+Array#rindex
+Gem::Specification#ri_dir
+Prism::AlternationPatternNode#right
+Prism::AndNode#right
+Prism::FindPatternNode#right
+Prism::FlipFlopNode#right
+Prism::MultiTargetNode#rights
+Prism::MultiWriteNode#rights
+Prism::OrNode#right
+Prism::RangeNode#right
+Process::GID::rid
+Process::UID::rid
+String#rindex
